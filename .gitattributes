@@ -1,0 +1,3 @@
+# Keep the instruction-guide sources reviewable and mergeable as text.
+*.md text eol=lf
+*.rtf text eol=lf
